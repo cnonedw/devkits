@@ -1,4 +1,4 @@
-# Devkits — macOS 原生开发者工具箱
+# Devkits — macOS 原生开发者工具箱（Vibe Coding）
 
 一套纯原生（Swift + SwiftUI）的 macOS 开发者工具集。单窗口、侧边栏切换、离线可用，无任何第三方运行时依赖，安装即用。
 
